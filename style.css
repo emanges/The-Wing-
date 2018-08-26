@@ -1,0 +1,118 @@
+#emily{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+}
+
+
+.nav-link{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(3, 3, 68);
+    font-size: 30px;
+}
+
+#container{
+    background-color:rgb(238, 218, 215);
+    border-top-color: rgb(3, 3, 68);
+    border-top-style: solid;
+    border-top-width: 1px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#txt2{
+    font-family:'Abril Fatface', cursive;
+    color: rgb(226, 154, 61);
+    font-weight: bold;
+}
+
+
+#paragraph{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: rgb(3, 3, 68);
+    padding: 10px;
+
+}
+
+#contact{
+    font-size: 25px;
+    position: static;
+    bottom: 2px;
+
+}
+
+#resume{
+    color: navy;
+}
+
+#txt4{
+    color: rgb(43, 43, 92);
+    font-family:'Abril Fatface', cursive;
+    font-weight: bold;
+}
+
+#containerResume{
+    background-color: rgb(43, 43, 92);
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: rgb(3, 3, 68);
+    font-size: 14px;
+    line-height: 20px;
+}
+
+p{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: rgb(3, 3, 68);
+    font-size: 14px;
+}
+
+#blueContainer{
+    background-color: rgb(207, 173, 169);
+    
+    padding: 50px;
+}
+
+.header{
+    font-family: 'Oswald', sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+.whythewingParagraph{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: whitesmoke;
+    font-size: 14px;
+}
+
+#containerTwo{
+    padding: 20px;
+    background-color: rgb(3, 3, 68);
+    color: whitesmoke;
+}
+
+.projectManagement{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: whitesmoke;
+    font-size: 14px;
+    line-height: 7ch;
+    padding: 20px;
+}
+
+.whythewingParagraph{
+    font-size: 20px;
+}
+
+.heading{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#picture2{
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-top:10px;
+}
